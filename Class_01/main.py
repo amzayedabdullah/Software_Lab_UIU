@@ -1,2 +1,5 @@
 print("Hello, World!")
 print("This is Class 01 main.py file.")
+print("Welcome to Software Engineering Laboratory!")
+print("Let's get started with our project.")
+print("Happy Coding!")
