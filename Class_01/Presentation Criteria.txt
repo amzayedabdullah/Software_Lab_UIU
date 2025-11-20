@@ -1,0 +1,11 @@
+Presentation Criteria:
+
+1. Problem Statement
+2. Solution of that problem
+3. Solution features -> N number of core features (2-3 more than enough)
+4. For n number of feature -> what it does? and how it will do it?
+5. Timeline
+6. Team Member Roles
+7. Conclusion
+
+Fully English presentations. Total time 10 minutes.

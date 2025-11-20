@@ -1,0 +1,44 @@
+Stating Point: 
+git init ( git initialization)
+
+Status: 
+git add file_name  or git add . (. stand for all files)
+git status (current state er obostha or ready to be committed)
+
+Staging to Commit:
+git commit unique_message (unique message mandatory)
+git commit -m  "meaningful_message" (Here m use as a flag)
+
+for random: git config --global user.email "random@gmail.com"
+git config --global user.name "random"
+
+Add & Commit Together: git commit -am "meaningfull_message"
+
+
+Revert Commit: git revert (minimum 8 character)
+
+
+Git Branch: 
+
+-Main/Master
+|
+|-- Login
+|-- CRUD (Create Read Update Deploy)
+|-- AI
+|-- DataBase
+
+
+Branch Naming Convention:
+<initial>/<features_name> | Zayed/Parina_kichu
+
+
+Hot fix korte chaile just master/main e hat dibo or else never touch the master branch or code on master branch
+
+Open a branch:  git checkout -b <initial>/<features_name>  (b for branch)
+
+Switch Between branches: git checkout branch_name
+
+Merge 2 Branch: Always je branch e merge korbo oikhane thakbo 
+git branch branch_name
+
+but never merge like this
