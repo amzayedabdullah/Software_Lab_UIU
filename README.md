@@ -2,10 +2,10 @@
 
 Developed by:
 
-* **Wasti Mohammad Khan (11213082)**
-* **Sayed Mishkat Shariar Moon (11213071)**
-* **A. M. Zayed Abdullah (11221127)**
-* **Samira Bintey Haque (11221128)**
+* **Wasti**
+* **Sayed**
+* **Zayed**
+* **Samira**
 
 This repository contains all documents, diagrams, models, and implementations prepared for the **Software Engineering Lab** at **United International University**.
 It includes complete project documentation following standard **Software Engineering practices** and **UML methodologies**.
@@ -66,12 +66,12 @@ United International University
 
 ## 👥 Team Members
 
-| Name                           | ID       |
-| ------------------------------ | -------- |
-| **Wasti Mohammad Khan**        | 11213082 |
-| **Sayed Mishkat Shariar Moon** | 11213071 |
-| **A. M. Zayed Abdullah**       | 11221127 |
-| **Samira Bintey Haque**        |          |
+| Name                           |
+| ------------------------------ |
+| **Wasti Mohammad Khan**        |
+| **Sayed Mishkat Shariar Moon** |
+| **A. M. Zayed Abdullah**       |
+| **Samira Bintey Haque**        |
 
 ---
 
